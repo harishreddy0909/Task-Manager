@@ -1,2 +1,2 @@
 # Task-Manager
-A full-stack task management application built using React.js, Spring Boot, MySQL, and REST APIs.
+The Task Management System is a full-stack web application developed using React.js, Spring Boot, MySQL, and REST APIs. It allows users to create, update, track, and manage tasks through an intuitive and user-friendly interface. The application follows a separate frontend and backend architecture, with React.js handling the user interface, Spring Boot providing RESTful APIs and backend functionality, and MySQL managing persistent task data. The project also incorporates optimized data structures and caching techniques to improve application performance.
